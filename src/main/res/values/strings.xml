@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Anonymous-Hope</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="HOBBIES">My Hobbies</string>
+    <string name="fund">Raise Fund</string>
+    <string name="contribute">Contribute</string>
+    <string name="about">The Anonymous Hope is a non-profit platform for the needy people to raise funds and for the generous to put forward their helping hand. We are a group of engineers who urge to make a difference in the society and this is our attempt for the same</string>
+    <string name="easy_to_use">Easy to use</string>
+    <string name="Your_money_is_in_safe_hands" >Trust</string>
+    <string name="your_help_their_future">YOUR HELP, THEIR FUTURE</string>
+    <string name="instant_service">\nFast service</string>
+    <string name="large_userbase">\nUserbase</string>
+    <string name="types_of_fundraiser">Type of FundRaisers</string>
+    <string name="calamity_relief">Calamity</string>
+    <string name="medical">Medical</string>
+    <string name="educational_aid">Education</string>
+    <string name="orphanage">Orphanage</string>
+    <string name="old_age_home">OldAge Home</string>
+    <string name="animal_help">Animal Help</string>
+    <string name="nurture_the_nature">Nature</string>
+    <string name="Others">Others</string>
+    <string name="medical_fundraise">Medical FundRaise</string>
+    <string name="name_of_the_applicant">Name of the applicant</string>
+    <string name="phone_number">Phone number</string>
+    <string name="correspondence_address">Correspondence Address</string>
+    <string name="i_agree_to_all_the_terms_and_conditions_and_assure_that_the_above_conditions_are_accurate_according_to_my_knowledge">I agree to all the terms and conditions and assure that the above conditions are accurate according to my knowledge</string>
+    <string name="submit">SUBMIT</string>
+    <string name="amount_to_be_raised">Amount to be raised</string>
+    <string name="description_of_condition">Description of condition</string>
+    <string name="where_to_contribute">Where to contribute?</string>
+    <string name="aa">Just a little help of yours can make their hearts happier. Sharing something that you have and someone in need does not is an act of God and we are a group of enthusiastic engineers who tried to mark a change in the society by facilitating this act</string>
+    <string-array name="id_options">
+        <item>Aadhar Card</item>
+        <item>PAN Card</item>
+        <item>Driving License</item>
+        <item>Passport</item>
+        <item>Others</item>
+    </string-array>
+</resources>

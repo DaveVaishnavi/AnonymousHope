@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="अविदित आशा"
+            android:textColor="@color/black"
+            android:textSize="40sp"
+            android:layout_centerInParent="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/header"
+            android:text="The Anonymous Hope"
+            android:textColor="@color/black"
+            android:textSize="32sp"
+            android:layout_centerInParent="true"/>
+
+        <ImageView
+            android:paddingBottom="20dp"
+            android:paddingTop="175dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/donation"
+            android:layout_above="@+id/header"
+            android:layout_centerInParent="true"
+            />
+
+</RelativeLayout>
